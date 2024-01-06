@@ -1,0 +1,97 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+  
+  header {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 16px;
+  }
+  header {
+    max-width: 55%;
+    margin: 0 auto;
+    border-radius: 55px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  article {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+
+  
+
+    h1{
+        font-family: roboto;
+    }
+  h3{ text-align: center;
+    font-size: medium;
+    font-family: ROBOTO;
+
+  }
+  h4{
+    font-family: montserrat;
+   
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+  }
+  
+  aside {
+    text-align: center;
+    padding: 100px;
+  }
+  
+  aside button {
+    background-color: #3ec242;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  aside button:hover {
+    background-color: #45a049;
+    padding: auto;
+  }
+  .titulo-alternativo {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: MONTSERRAT;
+  }
+  
+    p{  font-family: Arial, sans-serif;
+        font-size: 16px;
+        color: #333;
+        line-height: 1.5;
+        padding: 10px;
+    margin: 10px 0;
+ }
+ img {
+    width: 490px;
+    height: auto; 
+    border: 1px solid #ccc;
+    
+  }
